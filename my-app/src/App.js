@@ -1,26 +1,48 @@
 import React,{useState} from 'react';
-import MyComponent from './MyComponent';
+import MyErvena from './MyErvena';
+import MyLights from './MyLights';
+import MyInovation from './MyInovation';
+
 
 function App() {
-  const [show,setShow]= useState(false)
+  const [show,setShow]= useState(true)
+  const [light,setlight]= useState(false)
+  const [inovation,setinovation]= useState(false)
+  
   const ShowName = ()=>{
-    if(show == true){
       setShow(false)
-    }else{
-      setShow(true)
-    }
+      setlight(true)
+      setinovation(false)
   }
+  const inov = ()=>{
+      setShow(true)
+      setlight(false)
+      setinovation(false)
+  }
+  const home = ()=>{
+    setShow(false)
+    setlight(false)
+    setinovation(true)
+}
   return (
     <div>
       <div className="navigation">
+
       <li onClick={ShowName} >Ervena</li>
-      <li onClick={ShowName} >Home</li>
-      <li onClick={ShowName} >Fashion</li>
+      <li onClick={home} >Home</li>
+      <li onClick={inov} >Innovation</li>
+
       </div>
       
       {
-        show && (<MyComponent name="mycomponents" />)
+        show && (<MyErvena name="MyErvena" />)
       }
+      {
+        light && ( <MyLights name="MyLights" />)
+      }
+      {
+        inovation && ( <MyInovation name="MyInovation" />)
+      } 
     </div>
  
  );

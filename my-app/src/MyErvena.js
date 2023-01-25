@@ -1,6 +1,6 @@
 import React from 'react';
 
-function MyComponent() {
+function MyErvena() {
   return (
 <div className="App">
 <div className="container_srt">
@@ -195,4 +195,4 @@ That Everyone On Your Holiday Gift List Will Want</p>
   );
 }
 
-export default MyComponent;
+export default MyErvena;

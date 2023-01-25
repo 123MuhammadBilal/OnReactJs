@@ -103,7 +103,7 @@ html,body , h1 ,h2 ,h3 , h4 , p {
 .navigation {
   float: left;
   width: 100%;
-  background: #6f6d6d;
+  background: #e60f4a;
   position: fixed;
   height: 72px;
   margin-top: 4px;
@@ -112,7 +112,7 @@ html,body , h1 ,h2 ,h3 , h4 , p {
   float: left;
   padding: 10px;
   margin: 5px 110px;
-  color: black;
+  color: white;
   list-style-type: square;
   font-size: 35px;
   cursor: pointer;
@@ -609,3 +609,4 @@ html,body , h1 ,h2 ,h3 , h4 , p {
 }
 
 }
+

@@ -1,0 +1,22 @@
+{
+  "name": "onreactjs",
+  "version": "1.0.0",
+  "description": "here is basics and advance React Programs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/123MuhammadBilal/OnReactJs.git"
+  },
+  "author": "bila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/123MuhammadBilal/OnReactJs/issues"
+  },
+  "homepage": "https://github.com/123MuhammadBilal/OnReactJs#readme",
+  "keywords": [
+    "React"
+  ]
+}

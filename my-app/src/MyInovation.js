@@ -11,7 +11,7 @@ function MyInovation() {
         </div>
         <div className="are_out">
             <div className="ec_img">
-                <a href="#"><img src="/images/ec1.png"/></a>
+                <a href="/#"><img src="/images/ec1.png" alt="images"/></a>
                 <div className="st_hed">
                     <h1>European Design Award</h1>
                 </div>
@@ -19,7 +19,7 @@ function MyInovation() {
                 <p>SILVER PRIZE WINNER</p>
             </div>
             <div className="ec_img">
-                <a href="#"><img src="/images/ec2.png"/></a>
+                <a href="/#"><img src="/images/ec2.png" alt="images"/></a>
                 <div className="st_hed">
                     <h1>London Intl. Creative Competition</h1>
                 </div>
@@ -27,7 +27,7 @@ function MyInovation() {
                 <p>SHORT LIST WINNER</p>
             </div>
             <div className="ec_img">
-                <a href="#"><img src="/images/ec3.png"/></a>
+                <a href="/#"><img src="/images/ec3.png" alt="images"/></a>
                 <div className="st_hed">
                     <h1>Good Design Award</h1>
                 </div>
@@ -35,7 +35,7 @@ function MyInovation() {
                 <p>GOOD DESIGN WINNER</p>
             </div>
             <div className="ec_img">
-                <a href="#"><img src="/images/ec4.png"/></a>
+                <a href="/#"><img src="/images/ec4.png" alt="images"/></a>
                 <div className="st_hed">
                     <h1>Golden Pin Design Award</h1>
                 </div>
@@ -43,7 +43,7 @@ function MyInovation() {
                 <p>PRODUCT DESIGN WINNER</p>
             </div>
             <div className="ec_img">
-                <a href="#"><img src="/images/ec5.png"/></a>
+                <a href="/#"><img src="/images/ec5.png" alt="images"/></a>
                 <div className="st_hed">
                     <h1>ACE Award</h1>
                 </div>
@@ -51,7 +51,7 @@ function MyInovation() {
                 <p>INNOVATION AWARD WINNER</p>
             </div>
             <div className="ec_img">
-                <a href="#"><img src="/images/ec6.png"/></a>
+                <a href="/#"><img src="/images/ec6.png" alt="images"/></a>
                 <div className="st_hed">
                     <h1>IHA Innovation Award</h1>
                 </div>
@@ -59,7 +59,7 @@ function MyInovation() {
                 <p>HOME DÉCOR + GIFT FINALIST</p>
             </div>
             <div className="ec_img">
-                <a href="#"><img src="/images/ec7.png"/></a>
+                <a href="/#"><img src="/images/ec7.png" alt="images"/></a>
                 <div className="st_hed">
                     <h1>Red Dot Award</h1>
                 </div>
@@ -72,7 +72,7 @@ function MyInovation() {
         <div className="container_award">
             <div className="outer_award">
                 <div className="left_award">
-                    <img src="/images/vr1.jpg" />
+                    <img src="/images/vr1.jpg"  alt="images"/>
                 </div>
                 <div className="right_award">
                     <h1>European Product Design Award</h1>
@@ -83,8 +83,8 @@ function MyInovation() {
                     <div className="liner"></div>
                     <div className="bowl">
                         <div className="bowl_img">
-                            <img src="/images/bowl.png"/>
-                            <img src="/images/bowl.png"/>
+                            <img src="/images/bowl.png" alt="images"/>
+                            <img src="/images/bowl.png" alt="images"/>
                         </div>
                         <div className="bowl_det">
                             <h4>2018 Silver Prize Winner</h4>
@@ -98,7 +98,7 @@ function MyInovation() {
     <div className="container_nding">
         <div className="outer_nding">
             <div className="left_nding">
-                <img src="/images/vr2.jpg" />
+                <img src="/images/vr2.jpg"  alt="images"/>
             </div>
             <div className="right_nding">
                 <h1>London Intl. Creative Competition</h1>
@@ -108,8 +108,8 @@ function MyInovation() {
                 <div className="liner_nding"></div>
                 <div className="bowl_nding">
                     <div className="bowl_img_nding">
-                        <img src="/images/bowl.png"/>
-                        <img src="/images/bowl.png"/>
+                        <img src="/images/bowl.png" alt="images"/>
+                        <img src="/images/bowl.png" alt="images"/>
                     </div>
                     <div className="bowl_det_nding">
                         <h4>2017 Shortlist Award</h4>
@@ -123,7 +123,7 @@ function MyInovation() {
         <div className="container_award">
             <div className="outer_award">
                 <div className="left_award">
-                    <img src="/images/vr3.jpg" />
+                    <img src="/images/vr3.jpg"  alt="images"/>
                 </div>
                 <div className="right_award">
                     <h1>Good Design Award</h1>
@@ -133,8 +133,8 @@ function MyInovation() {
                     <div className="liner"></div>
                     <div className="bowl">
                         <div className="bowl_img">
-                            <img src="/images/bowl.png"/>
-                            <img src="/images/bowl.png"/>
+                            <img src="/images/bowl.png" alt="images"/>
+                            <img src="/images/bowl.png" alt="images"/>
                         </div>
                         <div className="bowl_det">
                             <h4>2017 Good Design Winner</h4>
@@ -148,7 +148,7 @@ function MyInovation() {
     <div className="container_nding">
         <div className="outer_nding">
             <div className="left_nding">
-                <img src="/images/vr4.jpg" />
+                <img src="/images/vr4.jpg"  alt="images"/>
             </div>
             <div className="right_nding">
                 <h1>Golden Pin Design Award</h1>
@@ -159,8 +159,8 @@ function MyInovation() {
                 <div className="liner_nding"></div>
                 <div className="bowl_nding">
                     <div className="bowl_img_nding">
-                        <img src="/images/bowl.png"/>
-                        <img src="/images/bowl.png"/>
+                        <img src="/images/bowl.png" alt="images"/>
+                        <img src="/images/bowl.png" alt="images"/>
                     </div>
                     <div className="bowl_det_nding">
                         <h4>2017 Product Design Winner</h4>
@@ -174,7 +174,7 @@ function MyInovation() {
         <div className="container_award">
             <div className="outer_award">
                 <div className="left_award">
-                    <img src="/images/vr5.jpg" />
+                    <img src="/images/vr5.jpg"  alt="images"/>
                 </div>
                 <div className="right_award">
                     <h1>Asian Catering Equipment (ACE) Award</h1>
@@ -185,8 +185,8 @@ function MyInovation() {
                     <div className="liner"></div>
                     <div className="bowl">
                         <div className="bowl_img">
-                            <img src="/images/bowl.png"/>
-                            <img src="/images/bowl.png"/>
+                            <img src="/images/bowl.png" alt="images"/>
+                            <img src="/images/bowl.png" alt="images"/>
                         </div>
                         <div className="bowl_det">
                             <h4>2015 Innovation Award Winner</h4>
@@ -200,7 +200,7 @@ function MyInovation() {
     <div className="container_nding">
         <div className="outer_nding">
             <div className="left_nding">
-                <img src="/images/vr6.jpg" />
+                <img src="/images/vr6.jpg"  alt="images"/>
             </div>
             <div className="right_nding">
                 <h1>IHA Innovation Award - Finalist</h1>
@@ -210,8 +210,8 @@ function MyInovation() {
                 <div className="liner_nding"></div>
                 <div className="bowl_nding">
                     <div className="bowl_img_nding">
-                        <img src="/images/bowl.png"/>
-                        <img src="/images/bowl.png"/>
+                        <img src="/images/bowl.png" alt="images"/>
+                        <img src="/images/bowl.png" alt="images"/>
                     </div>
                     <div className="bowl_det_nding">
                         <h4>2015 Home Décor + Gift Finalist</h4>
@@ -225,7 +225,7 @@ function MyInovation() {
         <div className="container_award">
             <div className="outer_award">
                 <div className="left_award">
-                    <img src="/images/vr7.jpg" />
+                    <img src="/images/vr7.jpg"  alt="images"/>
                 </div>
                 <div className="right_award">
                     <h1>Red Dot: Best of the Best Award</h1>
@@ -235,8 +235,8 @@ function MyInovation() {
                     <div className="liner"></div>
                     <div className="bowl">
                         <div className="bowl_img">
-                            <img src="/images/bowl.png"/>
-                            <img src="/images/bowl.png"/>
+                            <img src="/images/bowl.png" alt="images"/>
+                            <img src="/images/bowl.png" alt="images"/>
                         </div>
                         <div className="bowl_det">
                             <h4>2014 Best of the Best Winner</h4>

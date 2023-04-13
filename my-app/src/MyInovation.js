@@ -2,6 +2,7 @@ import React from 'react';
 
 function MyInovation() {
   return (
+
 <div className="App">
     <div className="container_win">
         <div className="are_head">
@@ -248,6 +249,7 @@ function MyInovation() {
         </div>
     </div>
 </div>
+
 );
 }
 
